@@ -36,6 +36,10 @@ Cette API RESTful permet la gestion complète de tâches avec MongoDB et Express
 ```
 node server.js
 ```
+OU
+```
+npm run dev
+```
 
 Le serveur démarre sur le port 5000.
 
